@@ -22,8 +22,8 @@ This dashboard was created to explore patterns in short-term rental listings. Us
 
 ## 📸 Dashboard Preview
 
-Dashboard Link : "https://public.tableau.com/app/profile/elvis.wanjohi/viz/Listings_17526486299220/ListingDashboard"
-![Dashboard Screenshot](images/dashboard-preview.png)
+Dashboard Link : https://public.tableau.com/app/profile/elvis.wanjohi/viz/Listings_17526486299220/ListingDashboard
+Dashboard Screenshot
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dbafe7eb-0c0d-4038-ba69-d9db4a268532" />
 
 
