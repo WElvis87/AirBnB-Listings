@@ -2,7 +2,6 @@
 
 ![Tableau](https://img.shields.io/badge/Visualized%20with-Tableau-E97627?style=flat-square&logo=tableau)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square)
-![License](https://img.shields.io/github/license/welvis87/BnB-Listing-Dashboard?style=flat-square)
 
 A visually interactive Tableau dashboard for analyzing **BnB property listings**. This project provides insights into property pricing, availability, host activity, and geographic trends based on real-world listing data.
 
@@ -23,7 +22,10 @@ This dashboard was created to explore patterns in short-term rental listings. Us
 
 ## 📸 Dashboard Preview
 
+![Dashboard Link](https://public.tableau.com/app/profile/elvis.wanjohi/viz/Listings_17526486299220/ListingDashboard)
 ![Dashboard Screenshot](images/dashboard-preview.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dbafe7eb-0c0d-4038-ba69-d9db4a268532" />
+
 
 > *(Replace the image above with a screenshot or Tableau Public link preview)*
 
